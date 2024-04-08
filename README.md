@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoumaySoni
-- 👀 I’m interested in 
+- 👀 I’m interested in playing Online Games
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/soumay-soni-911489202/)
