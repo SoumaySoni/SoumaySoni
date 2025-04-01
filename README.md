@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoumaySoni
+- 👋 Hi, I’m @soumaysoni
 - 👀 I’m interested in playing Online Games
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
