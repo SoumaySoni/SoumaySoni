@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @soumaysoni
-- 👀 I’m interested in playing Online Games
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (https://www.linkedin.com/in/soumay-soni-911489202/)
+# 👋 Hi, I'm Soumay Soni
 
-<!---
-SoumaySoni/SoumaySoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Full-Stack Web Developer** who enjoys building responsive, scalable, and dynamic web applications.
+
+## 🚀 Tech Stack
+
+**Frontend:**  
+HTML5 · CSS3 · JavaScript · jQuery · Bootstrap 5 · Tailwind CSS · React.js · TypeScript
+
+**Backend:**  
+Node.js · Express.js
+
+**Databases:**  
+MySQL · MSSQL · MongoDB
+
+---
+
+📫 **Let's connect:**  
+I'm always open to learning, collaborating, and building meaningful projects.
