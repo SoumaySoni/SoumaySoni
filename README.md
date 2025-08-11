@@ -36,12 +36,40 @@ I’m a **Full-Stack Web Developer** who loves:
 
 ---
 
-## 📊 GitHub in Action
+## 🚀 GitHub in Action
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoumaySoni&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumaySoni&layout=compact&theme=radical" height="165">
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=SoumaySoni&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey!+I'm+Soumay+Soni+👋;Web+Developer+%26+Student;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
+
+---
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SoumaySoni&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumaySoni&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=SoumaySoni&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <!-- Fun Badge -->
+  <img src="https://img.shields.io/badge/Code%20With-Love-red?style=for-the-badge&logo=heart" />
+  <img src="https://img.shields.io/badge/Made%20With-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react" />
+</p>
+
 
 ---
 
