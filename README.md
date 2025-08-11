@@ -68,14 +68,6 @@ I’m a **Full-Stack Web Developer** who loves:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SoumaySoni&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
-
-
-
----
-
 ## ⚡ Fun Facts
 - 🚀 I debug with **console.log()** like it’s an art form  
 - 🛠 I believe **dark mode** is a lifestyle  
