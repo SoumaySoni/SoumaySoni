@@ -33,42 +33,47 @@ I’m a **Full-Stack Web Developer** who loves:
 
 ---
 
-
----
-
-## 🚀 GitHub in Action
+## 🌟 My GitHub Universe
 
 <p align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=SoumaySoni&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-  
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey!+I'm+Soumay+Soni+👋;Web+Developer+%26+Student;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Welcome+to+Soumay's+Code+Galaxy+🚀;Full+Stack+Developer+%26+Student;Turning+Ideas+into+Reality" alt="Typing Animation" />
 </p>
 
 ---
 
+### 📊 Stats & Analytics
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SoumaySoni&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumaySoni&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoumaySoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumaySoni&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+---
+
+### 🔥 Streak Power
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=SoumaySoni&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
+  <img src="https://streak-stats.demolab.com?user=SoumaySoni&theme=neon-dark&hide_border=true" height="165" />
+</p>
+
+---
+
+### 📈 Coding Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumaySoni&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+### 🛠️ My Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
 
 <p align="center">
-  <!-- Fun Badge -->
-  <img src="https://img.shields.io/badge/Code%20With-Love-red?style=for-the-badge&logo=heart" />
-  <img src="https://img.shields.io/badge/Made%20With-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react" />
+  <img src="https://komarev.com/ghpvc/?username=SoumaySoni&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
+
 
 
 ---
