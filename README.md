@@ -35,9 +35,10 @@ I’m a **Full-Stack Web Developer** who loves:
 
 ## 🌟 My GitHub Universe
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Welcome+to+Soumay's+Code+Galaxy+🚀;Full+Stack+Developer+%26+Student;Turning+Ideas+into+Reality" alt="Typing Animation" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Welcome+to+Soumay's+Code+Galaxy+🚀;Full+Stack+Developer+%26+Student;Turning+Ideas+into+Reality" />
+</div>
+
 
 ---
 
