@@ -35,7 +35,6 @@ I’m a **Full-Stack Web Developer** who loves:
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoumaySoni&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumaySoni&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
@@ -43,9 +42,6 @@ I’m a **Full-Stack Web Developer** who loves:
   <img src="https://streak-stats.demolab.com?user=SoumaySoni&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumaySoni&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
 
 ---
 
