@@ -56,7 +56,7 @@ I’m a **Full-Stack Web Developer** who loves:
 
 ## 📬 Connect With Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=About.me&logoColor=white)]([https://soumay-portfoilio.netlify.app](https://soumaysoni-portfolio4.netlify.app/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=About.me&logoColor=white)](https://soumaysoni-portfolio4.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumay-soni-911489202/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/SoumaySoni)  
 
